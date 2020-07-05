@@ -1,0 +1,7 @@
+pytest
+pytest-cov
+pytest-randomly
+pytest-sugar
+pytest-pythonpath
+flake8
+pylint
